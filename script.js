@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Firebase Configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyA7uvrwo0k8SirQD7n3p8kPN4ccDn5awDs",
+        apiKey: " ",
         authDomain: "lewach-61752.firebaseapp.com",
         projectId: "lewach-61752",
         storageBucket: "lewach-61752.appspot.com",
