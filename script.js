@@ -18,16 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Firebase Configuration
-    const firebaseConfig = {
-        apiKey: " ",
-        authDomain: "lewach-61752.firebaseapp.com",
-        projectId: "lewach-61752",
-        storageBucket: "lewach-61752.appspot.com",
-        messagingSenderId: "549418727877",
-        appId: "1:549418727877:web:cc97163b971deb74e3b3ac",
-        measurementId: "G-E0ZSWHLM9W"
-    };
+    
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
